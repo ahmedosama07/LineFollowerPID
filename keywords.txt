@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map LineFollowerPID
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PID KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+control KEYWORD2
+linefollower KEYWORD2
+line KEYWORD2
+follower KEYWORD2
+folow KEYWORD2
+calibration KEYWORD2
+stability KEYWORD2
